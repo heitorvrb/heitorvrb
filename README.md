@@ -6,7 +6,7 @@ I love turning software into solutions. I also enjoy making an idea go to produc
 
 Over the years I've worked with many technologies and stacks, but right now I mostly use **React**, **Typescript**, **Tailwind** and **Laravel**. I'm also getting my feet wet with **Rust**.
 
-Please check out my pinned projects! Right now I'm focusing on building [Kitesurf](https://github.com/heitorvrb/kitesurfdb), a lightweight DB Client with all the features I want.
+Please check out my pinned projects! Right now I'm building [Kitesurf](https://github.com/heitorvrb/kitesurfdb), a lightweight DB Client with all the features I want.
 
 You can reach me by sending me a DM or at heitorvrb at g mail dot com.
 
